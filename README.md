@@ -1,8 +1,8 @@
 # prework-study-guide
 study guide for learning
 
-## Bing
-Hello, this is Bing. I can help you write HTML notes in markdown format. Markdown is a simple way to format text using plain text syntax. You can use markdown to create headings, lists, tables, links, images, code blocks, and more. Here is an example of how you can write HTML notes in markdown format:
+## Mussaddiq Mahmood
+Hello, this is Mussaddiq Mahmood. I can help you write HTML notes in markdown format. Markdown is a simple way to format text using plain text syntax. You can use markdown to create headings, lists, tables, links, images, code blocks, and more. Here is an example of how you can write HTML notes in markdown format:
 
 # HTML Notes
 
@@ -42,7 +42,7 @@ Some HTML elements are self-closing, which means they do not have an end tag. Th
 
 HTML attributes provide additional information about an element, such as its id, class, style, or behavior. Attributes are specified in the start tag of an element, after the element name. Attributes have a name and a value, separated by an equal sign (=). The value is usually enclosed in double quotes ("). For example:
 
-<a href="https://www.bing.com" target="_blank">Visit Bing</a>
+<a href="https://www.google.com" target="_blank">Visit google</a>
 
 In this example, the <a> element has two attributes: href and target. The href attribute specifies the URL of the link, and the target attribute specifies how the link should be opened. The value _blank means the link should be opened in a new tab or window.
 Common ElementsHere are some of the most common HTML elements and their uses:
@@ -104,7 +104,7 @@ Common ElementsHere are some of the most common HTML elements and their uses:
 
 - <a>: This element is used to create hyperlinks to other web pages or resources. The href attribute specifies the URL of the link, and the target attribute specifies how the link should be opened. For example:
 
-<a href="https://www.bing.com" target="_blank">Visit Bing</a>
+<a href="https://www.google.com" target="_blank">Visit google</a>
 
 - <form>: This element is used to create forms for user input. A form consists of various input elements, such as text fields, checkboxes, radio buttons, and buttons. The action attribute specifies the URL where the form data should be sent, and the method attribute specifies the HTTP method to use (GET or POST). For example:
 
